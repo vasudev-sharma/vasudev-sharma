@@ -1,5 +1,6 @@
 ## Hola, I am Vasudev Sharma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vs74&label=Views&color=blue&style=plastic" alt="vs74" /> </p>
 - 🔭 I’m currently working on projects related to Computer Vision and Deep Learning. 
 - 🌱 I’m currently comsuming GAN's ( Generative Adverserial Networks)
 - 👯 I’m always open to collaborations and opportunities. 
@@ -19,7 +20,7 @@
 [website]: https://vs74.github.io/
 [twitter]: https://twitter.com/vasudev_vasudev
 [linkedin]: https://www.linkedin.com/in/vs74/
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fvs74%2Fvs74)
+![Views](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fvs74%2Fvs74)
 
 <br/>
 
