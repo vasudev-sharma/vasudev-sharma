@@ -21,7 +21,7 @@
 [website]: https://vs74.github.io/
 [twitter]: https://twitter.com/vasudev_vasudev
 [linkedin]: https://www.linkedin.com/in/vs74/
-![Views](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fvs74%2Fvs74)
+
 
 <br/>
 
