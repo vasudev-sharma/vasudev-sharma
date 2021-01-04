@@ -32,4 +32,4 @@
 
 
 
-### Show some ❤️ by starring some of the repositories!
+<h3 style="text-align:center;">Show some ❤️ by starring some of the repositories! </h1>
