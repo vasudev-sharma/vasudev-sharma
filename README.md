@@ -30,6 +30,7 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=vs74&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vs74&hide=Jupyter%20Notebook&layout=compact&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&count_private=true)](https://github.com/vs74/github-readme-stats)
 
 
 
