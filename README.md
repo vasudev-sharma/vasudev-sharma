@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vs74&label=Profile Views&color=blue&style=plastic" alt="vs74" /> </p>
 
 - 🔭 I’m currently working on projects related to Computer Vision and Deep Learning. 
-- 🌱 I’m currently comsuming GAN's ( Generative Adverserial Networks).
+- 🌱 I’m currently comsuming GAN's (Generative Adverserial Networks).
 - 👯 I’m always open to collaborations and opportunities. 
 - 📫 How to reach me: [Connect on Linkedin!](https://www.linkedin.com/in/vs74/) or email at vasudevsharma74@yahoo.com
 - ⚡ Fun fact: I love playing Chess and Video Games. 
