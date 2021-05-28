@@ -26,10 +26,9 @@
 <br/>
 
 
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=vs74&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
-
+<a href="https://github.com/vs74">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=vs74&show_icons=true&theme=light&line_height=27" alt="Vasudev's github stats"/>
+</a>
 
 
 
