@@ -34,3 +34,6 @@
 
 
 <h3 style="text-align:center;">Show some ❤️ by starring some of the repositories! </h1>
+
+
+<h7> Credits: The GIF image has been inpired from [this](https://github.com/Harshita248/Harshita248/blob/main/README.md) readme. </h7>
