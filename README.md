@@ -1,6 +1,6 @@
 ## Bonjour!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Vasudev Sharma  <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Developer.gif" width="80px">
 </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vs74&label=Profile Views&color=blue&style=plastic" alt="vs74" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vasudev-sharma&label=Profile Views&color=blue&style=plastic" alt="vasudev-sharma" /> </p>
 
 - 🔭 I’m currently working on projects related to Computer Vision and Deep Learning. 
 - 🌱 I’m currently comsuming GAN's (Generative Adverserial Networks).
