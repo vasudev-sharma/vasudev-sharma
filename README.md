@@ -2,7 +2,7 @@
 </h1>
 
 - 🔭 I’m currently working on projects related to Computer Vision and Deep Learning. 
-- 🌱 I’m currently comsuming GAN's (Generative Adverserial Networks).
+- 🌱 I’m currently comsuming self supervised learning.
 - 👯 I’m always open to collaborations and opportunities
 - 📫 How to reach me: [Connect on Linkedin!](https://www.linkedin.com/in/vasudev-sharma-) or email at sharmavasudev1998@gmail.com
 - ⚡ Fun fact: I love playing Chess and Video Games. 
