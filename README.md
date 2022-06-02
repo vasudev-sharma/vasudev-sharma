@@ -1,4 +1,4 @@
-## Bonjour!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Vasudev Sharma  <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Developer.gif" width="80px">
+## Bonjour! 👋, I'm Vasudev Sharma  <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Developer.gif" width="20px">
 </h1>
 
 - 🔭 I’m currently working on projects related to Computer Vision and Deep Learning. 
