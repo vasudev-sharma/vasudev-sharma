@@ -1,7 +1,7 @@
 ## Bonjour! 👋, I'm Vasudev Sharma  <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Developer.gif" width="20px">
 </h1>
 
-- 🔭 I’m currently working on projects related to Computer Vision and Deep Learning. 
+- 🔭 I'm currently learning LLM and Agents
 - 👯 I’m always open to collaborations and opportunities
 - 📫 How to reach me: [Connect on Linkedin!](https://www.linkedin.com/in/vasudev-sharma-) or email at vasu@cs.toronto.edu
 - ⚡ Fun fact: I love playing Chess and Video Games. 
